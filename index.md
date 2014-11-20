@@ -22,10 +22,10 @@ El laboratorio está utilizando microarrays de péptidos de última generación
 potencial utilidad en diagnóstico, y en el estudio a escala genómica de la
 respuesta inmune montada durante la Enfermedad de Chagas.
 
-**Perfil buscado:** Licenciad@s en Bioinformática, Cs. de la Computación,
-Física, o Biología con orientación en Bioinformática, con excelentes
-calificaciones, experiencia en programación, buen manejo del inglés (o gran
-atrevimiento) y muchas ganas. 
+**Perfil buscado:** Licenciad@s en Biotecnología, Binformática, Cs. de la
+Computación, Física, o Biología con orientación en Bioinformática, con
+excelentes calificaciones, experiencia en programación, buen manejo del inglés
+(o gran atrevimiento) y muchas ganas. 
 
 **Financiamiento:** FONARSEC FITS-CHAGAS-003 (2012-2015), FONCYT PICT-2013-1193 (2014-2016).
 
@@ -45,8 +45,9 @@ patógenos humanos. Como parte de este proyecto, buscamos desarrollar
 estrategias quimiogenómicas comparativas para reposicionar compuestos
 bioactivos hacia enfermedades infecciosas. 
 
-**Perfil buscado:** Licenciad@s en Bioinformática, Química, o Biología con
-excelentes calificaciones, experiencia en programación en cualquier lenguaje, buen manejo del idioma inglés (o gran atrevimiento). 
+**Perfil buscado:** Licenciad@s en Biotecnología, Binformática, Química, o
+Biología con excelentes calificaciones, experiencia en programación en
+cualquier lenguaje, buen manejo del idioma inglés (o gran atrevimiento). 
 
 **Financiamiento:**  FONCYT PICTO-Glaxo-2013-0067 (2014-2016)
 
