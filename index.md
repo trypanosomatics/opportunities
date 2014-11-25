@@ -81,7 +81,7 @@ Mitre), Puente Saavedra, Liniers y barrios cercanos (Vicente Lopez,
 Saavedra, Nuñez, Belgrano, Villa Urquiza, Devoto, Villa del Parque). 
 
 Plano del campus Miguelete:
-![Plano del campus Miguelete]({{ site.url }}/images/mapach.gif)
+![Plano del campus Miguelete](images/mapach.gif)
 
 Foto aérea del IIB en el campus Miguelete:
-![Foto aérea del IIB en el campus Miguelete de la UNSAM]({{ site.url }}/images/maxresdefault.jpg) 
+![Foto aérea del IIB en el campus Miguelete de la UNSAM](images/maxresdefault.jpg) 
