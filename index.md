@@ -8,8 +8,7 @@ tags: [opportunities, vacantes, becas, doctorado]
 
 ## POSICIONES DOCTORALES
 
-### INSTITUTO DE INVESTIGACIONES BIOTECNOLÓGICAS
-
+### INSTITUTO DE INVESTIGACIONES BIOTECNOLÓGICAS (IIB)
 
 
 El laboratorio de Genómica y Bioinformática de la UNSAM ofrece oportunidades
@@ -61,3 +60,19 @@ buen manejo del idioma inglés escrito y hablado (o gran atrevimiento).
 
 Si estás interesad@, escribí a [fernan@unsam.edu.ar](mailto:fernan@unsam.edu.ar)
 
+***
+
+### Donde estamos
+
+El Instituto de Investigaciones Biotecnológicas (IIB) está dentro del nuevo
+campus Miguelete de la UNSAM, a cuadras de la Av. Gral Paz y con conexión
+directa y rápida mediante [colectivos o
+tren](http://www.unsam.edu.ar/home/_c_llegar.asp) hacia Retiro (Ferrocarril
+Mitre), Puente Saavedra, Liniers y barrios cercanos (Vicente Lopez,
+Saavedra, Nuñez, Belgrano, Villa Urquiza, Devoto, Villa del Parque). 
+
+Plano del campus Miguelete:
+![Plano del campus Miguelete]({{ site.url }}/images/mapach.gif)
+
+Foto aérea del IIB en el campus Miguelete:
+![Foto aérea del IIB en el campus Miguelete de la UNSAM]({{ site.url }}/images/maxresdefault.jpg) 
