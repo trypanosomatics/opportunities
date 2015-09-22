@@ -54,9 +54,9 @@ cualquier lenguaje, buen manejo del idioma inglés (o gran atrevimiento).
 **Publicaciones relacionadas:**
 
  * A multilayer network approach for guiding drug repositioning in neglected diseases. Berenstein AJ, Magariños MP, Chernomoretz A, Agüero F (2015). Submitted.
- * TDR Targets: a chemogenomics resource for neglected diseases. Magariños MP *et al* (2012). Nucleic Acids Research 40: D1118.
- * Identification of attractive drug targets in neglected-disease pathogens using an *in silico* approach. Crowther GJ *et al.* (2010). PLOS Neglected Tropical Diseases 4: e804.
- * Genomic-scale prioritization of drug targets: the TDR Targets database. Agüero F *et al.* (2008). Nature Reviews Drug Discovery 7: 900.
+ * TDR Targets: a chemogenomics resource for neglected diseases. Magariños MP *et al* (2012). Nucleic Acids Research 40: D1118. [Full Text](http://dx.doi.org/10.1093/nar/gkr1053)
+ * Identification of attractive drug targets in neglected-disease pathogens using an *in silico* approach. Crowther GJ *et al.* (2010). PLOS Neglected Tropical Diseases 4: e804. [Full Text](http://dx.doi.org/10.1371/journal.pntd.0000804)
+ * Genomic-scale prioritization of drug targets: the TDR Targets database. Agüero F *et al.* (2008). Nature Reviews Drug Discovery 7: 900. [Full Text](http://dx.doi.org/10.1038/nrd2684)
 
 ***
 
