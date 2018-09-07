@@ -1,64 +1,72 @@
 ---
-title: Opportunities by trypanosomatics
+title: Positions Open by trypanosomatics
 layout: index
 tagline: Trypanosomatics Lab 
 category: pages
 tags: [opportunities, vacantes, becas, doctorado]
 ---
 
-## POSICIONES DOCTORALES
+## POSICIONES DISPONIBLES PARA TESIS/TESINA
 
-### INSTITUTO DE INVESTIGACIONES BIOTECNOLÓGICAS (IIB)
+### INSTITUTO DE INVESTIGACIONES BIOTECNOLÓGICAS (IIBIO)
 
-El laboratorio de Genómica y Bioinformática de la UNSAM ofrece oportunidades
-para hacer investigación en el marco de su programa de Doctorado. Se ofrece
-posibilidad de presentación a beca Agencia o CONICET en algunas de estas líneas
-de investigación:
+![brochure](images/convocatoria-2018.png){: .center-image }
 
-### Immunomics of Chagas Disease: large scale analysis of antibody responses associated with *Trypanosoma cruzi* infections
 
-El laboratorio está utilizando microarrays de péptidos de última generación
-(peptide chips) para el descubrimiento de nuevos marcadores serológicos con
-potencial utilidad en diagnóstico, y en el estudio a escala genómica de la
-respuesta inmune montada durante la Enfermedad de Chagas.
+Tenemos abiertas posiciones en el laboratorio para estudiantes avanzad@s en
+ciencias (biología, biotecnología, bioquímica, física, informática,
+programación o afines) que quieran hacer investigación para una Tesina de Grado o Tesis de Doctorado en:
 
-**Perfil buscado:** Licenciad@s en Biotecnología, Binformática, Cs. de la
-Computación, Física, o Biología con orientación en Bioinformática, con
-excelentes calificaciones, experiencia en programación, buen manejo del inglés
-(o gran atrevimiento) y muchas ganas. 
+ 1. integración de datos, data mining, desarrollo de herramientas
+    bioinformáticas
 
-**Financiamiento:** FONARSEC FITS-CHAGAS-003 (2012-2015), FONCYT PICT-2013-1193 (2014-2016).
+ 2. validación experimental de hipótesis (drug discovery)
 
-**Publicaciones relacionadas:** 
 
- * Towards high-throughput immunomics for infectious diseases: use of next-generation peptide microarrays for rapid discovery and mapping of antigenic determinants. Carmona SJ *et al.* (2015). Mol Cell Proteomics 14: 1871. [Full Text](http://dx.doi.org/10.1074/mcp.M114.045906)
- * Diagnostic peptide discovery: prioritization of pathogen diagnostic markers using multiple features. Carmona SJ *et al.* (2012). PLOS One 7: e50748. [Full Text](http://dx.doi.org/10.1371/journal.pone.0050748)
+**La letra chica:** el laboratorio cuenta con dos líneas principales de
+investigación con financiamiento activo aplicadas a la Enfermedad de Chagas
+(drug discovery / diagnostics). Mezclamos lo experimental con lo
+computacional con mucha interdisciplinariedad y colaboración.
 
-***
+**Requisitos:** ganas de aprender!, capacidad de trabajo en equipo, lectroescritura fluída en inglés (oral no excluyente, pero deseable), buen promedio. Para (1) competencia en el uso de herramientas informáticas (programación en cualquier lenguaje NO EXCLUYENTE pero deseable). Para (2) competencia en el manejo de pipetas (experiencia previa en laboratorio NO EXCLUYENTE, pero deseable) .
 
-### Computational Drug Discovery: development of methods for repurposing bioactive compounds for infectious diseases.
+**Publicaciones recientes:** 
 
-El laboratorio está enfocado desde hace un tiempo en el desarrollo de
-métodos y herramientas computacionales para guiar el proceso de
-identificación y desarrollo de nuevas drogas con potencial actividad contra
-patógenos humanos. Como parte de este proyecto, buscamos desarrollar
-estrategias quimiogenómicas comparativas para reposicionar compuestos
-bioactivos hacia enfermedades infecciosas. 
+ * FastqCleaner: an interactive Bioconductor application for
+   quality-control, filtering and trimming of FASTQ files. Leandro G Roser,
+   Fernán Agüero, Daniel Sánchez (2018). [**bioRxiv
+   393140**](https://www.biorxiv.org/content/early/2018/08/28/393140);
+   http://dx.doi.org/10.1101/393140
+ * Novel scaffolds for inhibition of Cruzipain identified from
+   high-throughput screening of anti-kinetoplastid chemical boxes.
+   Salas-Sarduy E *et al* (2017) **Scientific reports 7:** 12073. [Full
+   Text](https://www.nature.com/articles/s41598-017-12170-4)
+ * A multilayer network approach for guiding drug repositioning in neglected
+   diseases. Berenstein AJ, Magariños MP, Chernomoretz A, Agüero F (2016).
+   **PLOS Neglected Tropical Diseases 10:** e0004300. [Full
+   Text](http://dx.plos.org/10.1371/journal.pntd.0004300)
+ * Neglected Tropical Diseases in the Post-Genomic Era. Buscaglia CA,
+   Kissinger JC, Agüero F. (2015) **Trends in Genetics 31:** 539-555.
+   [Full Text](https://doi.org/10.1016/j.tig.2015.06.002)
+ * Towards high-throughput immunomics for infectious diseases: use of
+   next-generation peptide microarrays for rapid discovery and mapping of
+   antigenic determinants. Carmona SJ *et al.* (2015). **Mol Cell
+   Proteomics 14:** 1871. [Full
+   Text](http://dx.doi.org/10.1074/mcp.M114.045906)
+ * Diagnostic peptide discovery: prioritization of pathogen diagnostic
+   markers using multiple features. Carmona SJ *et al.* (2012). **PLOS One 7:**
+   e50748. [Full Text](http://dx.doi.org/10.1371/journal.pone.0050748)
+ * TDR Targets: a chemogenomics resource for neglected diseases. Magariños
+   MP *et al* (2012). **Nucleic Acids Research 40:** D1118. [Full
+   Text](http://dx.doi.org/10.1093/nar/gkr1053)
+ * Identification of attractive drug targets in neglected-disease pathogens
+   using an *in silico* approach. Crowther GJ *et al.* (2010). **PLOS
+   Neglected Tropical Diseases 4:** e804. [Full
+   Text](http://dx.doi.org/10.1371/journal.pntd.0000804)
+ * Genomic-scale prioritization of drug targets: the TDR Targets database.
+   Agüero F *et al.* (2008). **Nature Reviews Drug Discovery 7:** 900. [Full
+   Text](http://dx.doi.org/10.1038/nrd2684)a 
 
-**Perfil buscado:** Licenciad@s en Biotecnología, Binformática, Química, o
-Biología con excelentes calificaciones, experiencia en programación en
-cualquier lenguaje, buen manejo del idioma inglés (o gran atrevimiento). 
-
-**Financiamiento:**  FONCYT PICTO-Glaxo-2013-0067 (2014-2016)
-
-**Publicaciones relacionadas:**
-
- * A multilayer network approach for guiding drug repositioning in neglected diseases. Berenstein AJ, Magariños MP, Chernomoretz A, Agüero F (2015). Submitted.
- * TDR Targets: a chemogenomics resource for neglected diseases. Magariños MP *et al* (2012). Nucleic Acids Research 40: D1118. [Full Text](http://dx.doi.org/10.1093/nar/gkr1053)
- * Identification of attractive drug targets in neglected-disease pathogens using an *in silico* approach. Crowther GJ *et al.* (2010). PLOS Neglected Tropical Diseases 4: e804. [Full Text](http://dx.doi.org/10.1371/journal.pntd.0000804)
- * Genomic-scale prioritization of drug targets: the TDR Targets database. Agüero F *et al.* (2008). Nature Reviews Drug Discovery 7: 900. [Full Text](http://dx.doi.org/10.1038/nrd2684)
-
-***
 
 ### Otras Publicaciones 
 
@@ -68,7 +76,7 @@ cualquier lenguaje, buen manejo del idioma inglés (o gran atrevimiento).
 
 ### Contacto 
 
-Si estás interesad@, escribí a [fernan@unsam.edu.ar](mailto:fernan@unsam.edu.ar)
+Si estás interesad@, escribinos a [fernan@unsam.edu.ar](mailto:fernan@unsam.edu.ar) o a [lionel.u.l@gmail.com](mailto:lionel.u.l@gmail.com)
 
 ***
 
